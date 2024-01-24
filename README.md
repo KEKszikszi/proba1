@@ -1,6 +1,6 @@
-#Ez egy leírás a projektről!#  
-##Alcím##  
-######legkisebb alcím######  
+#Ez egy leírás a projektről!  
+##Alcím  
+######legkisebb alcím  
 **Ez egy félkövér szöveg!**  
 *Ez dőlt szöveg!*  
 - első lista elem
