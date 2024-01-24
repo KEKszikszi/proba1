@@ -1,4 +1,6 @@
 #Ez egy leírás a projektről!#  
+##Alcím##  
+######legkisebb alcím######  
 **Ez egy félkövér szöveg!**  
 *Ez dőlt szöveg!*  
 - első lista elem
@@ -8,6 +10,4 @@
 [Ez egy link](www.google.com)  
 `Ez egy kódrészlet`  
 
-``Ez egy több
-soros kódrészlet
-még ez is``
+
